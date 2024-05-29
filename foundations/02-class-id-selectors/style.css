@@ -1,0 +1,19 @@
+.oddnumber {
+    background-color: rgb(255, 132, 152);
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+#id-one {
+    color:rgb(10, 10, 251);
+    font-size: 36px;
+}
+
+.butcooler {
+    font-size: 24px;
+}
+
+#id-two {
+    background-color: rgb(171, 220, 171);
+    font-size: 24px;
+    font-weight: bold;
+}
