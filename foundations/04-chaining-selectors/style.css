@@ -1,1 +1,12 @@
 /* Add CSS Styling */
+
+.avatar.proportioned {
+    width: 300px;
+    height: 250px; 
+    /* i did'nt know i can use the 'auto' value on height to automate its square proportion */
+}
+
+.avatar.distorted {
+    width: 200px;
+    height: 400px;
+}
